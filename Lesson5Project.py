@@ -96,4 +96,3 @@ print("Protocol : tcp")
 
 for port_number in result['scan'][chosen_ip]['tcp'].keys():
     print(f"Port: {port_number}, State: {result['scan'][chosen_ip]['tcp'][port_number]['state']}")
-
