@@ -1,3 +1,4 @@
+#lesson 5
 devices = [] #create an empty list
 devices = ["Router1","Router2","Switch1","Firewall1"] #create a list with variables
 

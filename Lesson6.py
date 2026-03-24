@@ -1,3 +1,4 @@
+#lesson 6
 def FirstFunction():
     print("Hello")
 

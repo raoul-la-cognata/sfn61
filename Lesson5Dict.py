@@ -1,3 +1,4 @@
+#lesson 5 dict
 details = {
 "name": "David", #key: value
 "surname": "Debono",
